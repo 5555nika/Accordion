@@ -1,9 +1,9 @@
 ## Accordion Component
 
- # How to Run
-🚀 ** [Посмотреть проект вживую (Live Demo)](https://5555nika.github.io/Accordion/) **
-
 This is a functional Accordion component built with TypeScript and JavaScript. It allows users to toggle between collapsed and expanded content sections seamlessly.
+
+ # How to Run
+🚀  [Посмотреть проект вживую (Live Demo)](https://5555nika.github.io/Accordion/) 
 
 # Features
 
