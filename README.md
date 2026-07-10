@@ -1,11 +1,11 @@
 ## Accordion Component
 
-This is A functional Accordion component built with TypeScript and JavaScript. It allows users to tooggle between collapsed and expanded content sections seamlessly.
+This is a functional Accordion component built with TypeScript and JavaScript. It allows users to toggle between collapsed and expanded content sections seamlessly.
 
 # Features
 
- -Interactive UI:Users can expand and collaps sections to view details.
- -Cle<n Design: Simple and responsive layout.
+ - Interactive UI:Users can expand and collapse sections to view details.
+ - Clean Design: Simple and responsive layout.
 
  # Technologies Used
  
