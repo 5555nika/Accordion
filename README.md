@@ -14,4 +14,4 @@ This is a functional Accordion component built with TypeScript and JavaScript. I
  - CSS
 
    # How to Run
-   git 
+   git https://5555nika.github.io/Accordion/
